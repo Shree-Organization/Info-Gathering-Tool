@@ -1,0 +1,8 @@
+# Core dependencies (exact versions for Linux stability)
+python-whois==0.7.3
+dnspython==2.6.1
+requests==2.31.0
+shodan==1.31.0
+
+# Optional - developer tooling
+flake8==6.1.0
