@@ -19,7 +19,6 @@ Do **not** use this tool against systems you are not explicitly allowed to test.
 - Optional JSON output for easy parsing/reporting
 - Reads Shodan API key from `--shodan-key` or `SHODAN_API_KEY` environment variable
 - Command-line interface with helpful flags
-
 ---
 
 ## 📦 Installation
