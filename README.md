@@ -26,7 +26,7 @@ Do **not** use this tool against systems you are not explicitly allowed to test.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/info-gathering.git
+git clone https://github.com/dhruva127/Info-Gathering-Tool
 cd info-gathering
 python3 -m venv venv
 source venv/bin/activate
