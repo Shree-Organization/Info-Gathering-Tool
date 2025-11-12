@@ -2,7 +2,7 @@
 """
 info_gathering.py - Simple info-gathering tool (authorized use only)
 
-Author: Dhruv Bhoir
+Author:ShreevOrganization
 
 License: MIT
 
