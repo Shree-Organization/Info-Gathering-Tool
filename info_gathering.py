@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-info_gathering_v2.py - Advanced info-gathering tool (authorized use only)
+info_gathering.py - Advanced info-gathering tool (authorized use only)
 
-Author: ShreevOrganization (upgraded)
+Author: Shree Organization 
 License: MIT
 Version: 2.0-advanced
 
