@@ -162,7 +162,7 @@ The authors are **not responsible** for any misuse or damage.
 
 ## 👨‍💻 Maintainers
 
-* **Author:** ShreevOrganization
+* **Author:** Shree Organization
 * **Maintained by:** [Shree Organization](https://www.linkedin.com/company/shree-org/)
   ✉️ [organizationshree@gmail.com](mailto:organizationshree@gmail.com)
   🔗 [GitHub – Shree-Organization](https://github.com/Shree-Organization)
